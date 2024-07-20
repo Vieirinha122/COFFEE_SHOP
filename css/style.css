@@ -52,3 +52,12 @@ section {
     height: 300px;
     object-fit: cover;
 }
+
+.modal-content {
+    width: 600px;
+    height: 600px;
+}
+
+footer img {
+    width: 4rem;
+}
